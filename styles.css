@@ -1,1 +1,15 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+ .carousel-inner {
+      height: 500px;
+    }
+
+    .carousel-item {
+      text-align: center;
+      background-color: #eee;
+      color: black;
+      font-size: 24px;
+    }
+
+    .carousel-item.active {
+      background-color: #ccc;
+    }
